@@ -1,0 +1,19 @@
+{
+  "name": "attain_pic_gallery",
+  "version": "1.0.0",
+  "description": "This is a project where I will use MERN Stack",
+  "main": "intex.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Sumit Malviya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9",
+    "nodemon": "^2.0.7"
+  }
+}
